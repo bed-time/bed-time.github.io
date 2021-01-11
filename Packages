@@ -1,0 +1,16 @@
+Package: luv.bedtime.starscape
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: bedtime
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/luv.bedtime.starscape_0.0.1-1+debug_iphoneos-arm.deb
+Size: 6594
+MD5sum: d97ec98b8458030f4e4a07e2544e3ee2
+SHA1: 5ea93901c386fd7724526df1e4c12f474239e117
+SHA256: ae63e19b3864d00fc08a0fb6c402cdc0ad27775358c203ab6dd99f3b1188a162
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: bedtime
+Name: Starscape 🌠
+
