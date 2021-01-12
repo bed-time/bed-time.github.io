@@ -1,3 +1,19 @@
+Package: luv.bedtime.mooncake
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm
+Maintainer: bedtime
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/luv.bedtime.mooncake_0.0.1-9+debug_iphoneos-arm.deb
+Size: 4266
+MD5sum: 3d00a0fdf98a6fd0a015bad8862d085d
+SHA1: a0eda5f28f31a8b5d3daf3c1b4cf471974225576
+SHA256: fe646d5ad371b74641db81e2354e95ecb2c37f74601daf2386af96734dfed9cf
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: bedtime
+Name: Mooncake 🥮
+
 Package: luv.bedtime.starscape
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
