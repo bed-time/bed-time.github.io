@@ -1,6 +1,6 @@
 body {
   font-family: 'Lato', sans-serif;
-  background-color: #00586e;
+  background-color: #000a0c;
 }
 
 video {
@@ -80,8 +80,8 @@ h2 span {
   content: '';
   -o-object-fit: cover;
      object-fit: cover;
-  width: 100vw;
-  height: 100vh;
+  width: 1000vw;
+  height: 1000vh;
   position: fixed;
   top: 0;
   left: 0;
