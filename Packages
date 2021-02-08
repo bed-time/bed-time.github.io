@@ -1,3 +1,19 @@
+Package: luv.bedtime.dd
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: bedtime
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/luv.bedtime.dd_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3230
+MD5sum: f1ae1303a6fc9237e5344a5b28aa8daa
+SHA1: c1b0676277310c0c5f582839657ec512efcdcc6c
+SHA256: 2265313553d872d1d02eda95f50b65834d6ed885900ec2eecfab5fa24df17fbb
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: bedtime
+Name: DockDestroyer
+
 Package: luv.bedtime.starscape
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
