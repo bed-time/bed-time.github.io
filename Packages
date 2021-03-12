@@ -15,16 +15,16 @@ Author: bedtime
 Name: DockDestroyer
 
 Package: luv.bedtime.fufu
-Version: 0.0.1-58+debug
+Version: 0.0.1-64+debug
 Architecture: iphoneos-arm
 Maintainer: bedtime
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/luv.bedtime.fufu_0.0.1-58+debug_iphoneos-arm.deb
-Size: 119074
-MD5sum: 7976ae86df1c8e089659925898f384fc
-SHA1: 6f20a40784bc32e24dfda09a54bdfdf0713e36d1
-SHA256: 7222b3e19bc05e669e1501082ec37ee919d161f94c09280d9d6a872f0d321788
+Size: 117526
+MD5sum: 2af1ec7c6da7e085305aad5f76394b78
+SHA1: 7d04608db3247fcc2b3a0c5856ea4146123d4c19
+SHA256: 13029fb127ea501434d89e2cf753e9acd350e40301bcd6a004ee999a5b969417
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: bedtime
